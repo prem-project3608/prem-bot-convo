@@ -1,4 +1,3 @@
-// Apna npm package import karen
 const messageSenderBot = require('message-sender-bot');
 
 // Yahan aap apne functions call kar sakte hain
