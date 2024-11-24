@@ -1,0 +1,14 @@
+{
+  "name": "prem-bot-convo",
+  "version": "1.0.0",
+  "description": "THIS PROJECT IS MADE BY PREM BABU",
+  "main": "PREM-BABU.js",
+  "scripts": {
+    "start": "node PREM-BABU.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "author": "PREM BABU",
+  "license": "MIT"
+}
